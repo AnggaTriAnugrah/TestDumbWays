@@ -1,0 +1,9 @@
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\ArrayIndexString\ArrayIndexString\bin\Debug\ArrayIndexString.exe.config
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\ArrayIndexString\ArrayIndexString\bin\Debug\ArrayIndexString.exe
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\ArrayIndexString\ArrayIndexString\bin\Debug\ArrayIndexString.pdb
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\ArrayIndexString\ArrayIndexString\obj\Debug\ArrayIndexString.csprojResolveAssemblyReference.cache
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\ArrayIndexString\ArrayIndexString\obj\Debug\ArrayIndexString.exe
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\ArrayIndexString\ArrayIndexString\obj\Debug\ArrayIndexString.pdb
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\1\1\bin\Debug\ArrayIndexString.exe.config
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\1\1\obj\Debug\ArrayIndexString.exe
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\1\1\obj\Debug\ArrayIndexString.pdb
