@@ -1,0 +1,6 @@
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\CetakGambar\CetakGambar\bin\Debug\CetakGambar.exe.config
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\CetakGambar\CetakGambar\bin\Debug\CetakGambar.exe
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\CetakGambar\CetakGambar\bin\Debug\CetakGambar.pdb
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\CetakGambar\CetakGambar\obj\Debug\CetakGambar.csprojResolveAssemblyReference.cache
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\CetakGambar\CetakGambar\obj\Debug\CetakGambar.exe
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\CetakGambar\CetakGambar\obj\Debug\CetakGambar.pdb
