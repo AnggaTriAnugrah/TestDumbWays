@@ -1,0 +1,6 @@
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\2\2\bin\Debug\2.exe.config
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\2\2\bin\Debug\2.exe
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\2\2\bin\Debug\2.pdb
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\2\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\2\2\obj\Debug\2.exe
+C:\Users\SDM\Documents\Visual Studio 2015\Projects\Angga_Test_Dumways\2\2\obj\Debug\2.pdb
